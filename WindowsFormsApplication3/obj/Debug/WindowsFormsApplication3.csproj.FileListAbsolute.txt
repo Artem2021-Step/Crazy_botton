@@ -1,0 +1,17 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Артем\Desktop\Новая папка (2)\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Артем\Desktop\Новая папка (2)\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Артем\Desktop\Новая папка (2)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+C:\Users\Артем\Desktop\Новая папка (2)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Артем\Desktop\Новая папка (2)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Артем\Desktop\Новая папка (2)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\Users\Артем\Desktop\Новая папка (2)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Новая папка (2)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Артем\Desktop\Новая папка (2)\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
